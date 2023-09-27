@@ -1,0 +1,27 @@
+_repo: Julia-Cary-and-her-kitten_71668
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Miller, Mrs. M. E.
+    gutenberg_agent_id: '56321'
+    url: http://www.gutenberg.org/2009/agents/56321
+description: ''
+gutenberg_issued: '2023-09-17'
+identifiers:
+  gutenberg: '71668'
+language: en
+pgterms:marc904: https://archive.org/details/juliacaryherkitt00milliala/page/n9/mode/2up
+pgterms:marc905: 20210705190816miller
+pgterms:marc906: '1873'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive/American Libraries.)
+publication_note: '  $aNew York :$bAmerican Tract Society, $c1873.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Julia Cary and her kitten
+url: http://www.gutenberg.org/ebooks/71668
