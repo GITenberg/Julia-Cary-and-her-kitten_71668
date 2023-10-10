@@ -1,11 +1,16 @@
 _repo: Julia-Cary-and-her-kitten_71668
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71668-h/images/backcover.jpg
 creator:
   author:
     agent_name: Miller, Mrs. M. E.
     gutenberg_agent_id: '56321'
     url: http://www.gutenberg.org/2009/agents/56321
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71668#Julia-Cary-and-her-kitten
 gutenberg_issued: '2023-09-17'
 identifiers:
   gutenberg: '71668'
